@@ -1,10 +1,4 @@
-# [Deprecated] Jetpack A/B Test
-
-**IMPORTANT NOTICE:**
-
-**This package is no longer maintained and currently broken. We do not recommend using it in any new projects.**
-
----
+# Jetpack A/B Test
 
 Provides an interface to the WP.com A/B tests.
 
